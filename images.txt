@@ -4,5 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 emby/embyserver:4.8.8.0
-clouddrive2-linux-x86_64-0.7.6
-clouddrive2-linux-aarch64-0.7.6
+ cloudnas/clouddrive2_aarch64-0.7.6
