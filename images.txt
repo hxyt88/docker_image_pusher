@@ -6,3 +6,4 @@ xhofe/alist:latest
 emby/embyserver:4.8.8.0
  cloudnas/clouddrive2
 passwall/passwall
+--platform=linux/arm64 xhofe/alist:latest
