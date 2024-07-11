@@ -7,3 +7,4 @@ emby/embyserver:4.8.8.0
  cloudnas/clouddrive2
 passwall/passwall
 openwrt:armv8
+suling/openwrt:armv8
