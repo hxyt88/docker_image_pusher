@@ -8,3 +8,4 @@ emby/embyserver:4.8.8.0
 passwall/passwall
 openwrt:armv8
 suling/openwrt:armv8
+jeessy/ddns-go
